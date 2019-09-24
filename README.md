@@ -1,4 +1,4 @@
-test## Code Overview
+## Code Overview
 - /models: Core codebase for network setup, training, one pixel attack, and other  utilities.
 - /cleverhans: Forked and modified brach of the Cleverhans library used in conducting the CW, JSMA, and DF attacks. 
 - /notebooks: Jupyter notebooks for each experiment. 
